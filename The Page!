@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<html>
+	<head>
+    <title>My Personal Page on Git Hub</title>
+    </head>
+	<body>
+
+		<h2>Welcome to my Personal Page! This is my first time useing Git Hub, so give me grace!</h>
+		<p>I suppose I ought to tell you a bit about myself.</p>
+    
+		<!-- Notice that the tag for a line break below is not paired and has a slightly different structure than the other paired tags. -->
+		<br />
+    
+		<h3>I'll start with my interests.</h>
+		<p>I like reading and writing. I read mostly fantasy and president's memoirs. I write fantasy novels and very bad poetry.<p/>
+		<p>I also enjoy reading the same news article from different sources and comparing them.</p> 
+			<h2>I also really like Martial arts!</h>
+		<p>I currently do Taekwondo. It focuses on complicated and deadly kicks.<p/>
+      <br/>
+			<p>I enjoy discussing politics and I LOVE election season. All the colored signs fill me with joy.</p>
+      <p>:)</p>
+<br/>
+<br/>
+    <This page probably gives you a sense of who I am (somewhat).</p>
+	</body>
+</html>
